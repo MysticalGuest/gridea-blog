@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mysticalguest.github.io/gridea-blog/</id>
-    <title>Gridea</title>
-    <updated>2020-07-15T04:36:12.634Z</updated>
+    <title>MysteryGuest的小站</title>
+    <updated>2020-07-16T04:11:34.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mysticalguest.github.io/gridea-blog/"/>
     <link rel="self" href="https://mysticalguest.github.io/gridea-blog/atom.xml"/>
     <subtitle>不是逢人苦誉君，亦狂亦侠亦温文</subtitle>
     <logo>https://mysticalguest.github.io/gridea-blog/images/avatar.png</logo>
     <icon>https://mysticalguest.github.io/gridea-blog/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, MysteryGuest的小站</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mysticalguest.github.io/gridea-blog/post/hello-gridea/</id>
